@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"log"
 
-	"github.com/madhanganesh/taskpad/api/models"
+	"github.com/asaady/taskpad/api/models"
 )
 
 // UserTagRepository struct

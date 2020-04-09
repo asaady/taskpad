@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/madhanganesh/taskpad/api/models"
+	"github.com/asaady/taskpad/api/models"
 )
 
 // ReportRepository struct

@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/gin-gonic/gin"
-	"github.com/madhanganesh/taskpad/api/repositories"
+	"github.com/asaady/taskpad/api/repositories"
 )
 
 // UserTagsController struct

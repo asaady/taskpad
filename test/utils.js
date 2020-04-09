@@ -9,7 +9,7 @@ const authToken =
 
 async function cleanTasksTable() {
   const client = new Client({
-    user: 'madhanganesh',
+    user: 'asaady',
     host: 'localhost',
     database: 'taskpad',
     password: '',

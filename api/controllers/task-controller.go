@@ -10,8 +10,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/madhanganesh/taskpad/api/models"
-	"github.com/madhanganesh/taskpad/api/repositories"
+	"github.com/asaady/taskpad/api/models"
+	"github.com/asaady/taskpad/api/repositories"
 )
 
 // TaskController struct
